@@ -1,0 +1,3 @@
+program można uruchomic za pomocą narzędzia od KN BIT
+
+Narzędzie do wprowadzania wielokątów z myszki jest załączone jako aplikacja_graficzna.py

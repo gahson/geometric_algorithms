@@ -1,0 +1,4 @@
+program można uruchomic za pomocą narzędzia od KN BIT
+Do ćwiczenia załączyłem również program (narzedzie_graficzne.py) do wprowadzania odcinków za pomocą myszki napisany w python,
+korzystający z biblioteki matplotlib, który zwraca nam liste odcinków,
+którą można przekopiować  do głównego programu i przetestować na niej algorytm. 
